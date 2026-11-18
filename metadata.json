@@ -1,0 +1,6 @@
+{
+  "name": "Terracotta Tide",
+  "description": "An editorial travel discovery, curated stays, and coastal itinerary journal built with the Terracotta & Tide design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

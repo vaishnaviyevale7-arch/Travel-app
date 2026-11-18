@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Terracotta Tide</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_itinerary">Itinerary</string>
+    <string name="nav_saved">Saved</string>
+    <string name="hero_eyebrow">CURATED JOURNAL · AUTUMN / WINTER</string>
+    <string name="hero_title">Where the tide meets terracotta</string>
+    <string name="search_placeholder">Search coastal villas, riads, coves…</string>
+    <string name="action_reserve_stay">Reserve Stay</string>
+    <string name="action_add_moment">Add Custom Moment</string>
+    <string name="saved_empty_title">Your travel journal is waiting</string>
+    <string name="saved_empty_subtitle">Tap the bookmark icon on any curated stay to save it for your next coastal escape.</string>
+    <string name="action_discover_stays">Discover Stays</string>
+</resources>
